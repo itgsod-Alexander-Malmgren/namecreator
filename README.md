@@ -1,18 +1,17 @@
-# first project
+#NameCreater
+Jag tar 2 bokstäver från förnamnet och efternamnet.
 
+Exp:
+ 
+ "Alexander,Malmgren"=AlMa.
 
-## fork
-
-ni ska forka det här projektet
-
-
-## clone
-
-öppna det sedan i pycharm
-
-## push
-
-skapa er egen version av nick generator och pusha upp dennna
+Om namnet redan finns så kan jag ha en siffra på slutet "AlMa2"
+ 
+ men det kan vara tråkigt att exempel vara
+nummer 2 så då kan man istället hoppa 3 steg i förnamnet och efternamnet
+ 
+ Exp:
+ "Alexander,Malmgren"=ExLm
 
 
 
